@@ -1,5 +1,3 @@
-package Junit;
-
 public class StudentList {
 
 	public StudentList() {
